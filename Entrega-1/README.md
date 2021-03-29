@@ -22,7 +22,7 @@
 - Os desenhos do wireframe para mobile devem ser compatíveis com o protótipo navegável
 - Não entregar um protótipo com esquema de cores distinto do wireframe
 - Um arquivo de README.MD no seu repositório que contenha sua identificação e um descritivo dos arquivos e pastas principais do seu repositório.
--  um vídeo do YouTube, onde você abre o seu protótipo navegável e navega pelas Interfaces do seu sistema.
+- Um vídeo do YouTube, onde você abre o seu protótipo navegável e navega pelas Interfaces do seu sistema.
 
 ## - ENTREGAS - :computer_mouse: 
 
