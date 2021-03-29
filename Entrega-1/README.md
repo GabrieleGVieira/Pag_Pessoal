@@ -11,6 +11,7 @@
 
 - Protótipo navegável para Desktop
 - Wireframe das interfaces em PDF
+- Código-fonte disponibilizado
 
 ## - Requisitos - :computer_mouse:  
 
@@ -40,5 +41,9 @@
 - [x] Wireframe 
 
 :point_right: Para acessar as telas em arquivo PDF, basta acessar [aqui](). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+
+- [x] Código-fonte disponibilizado
+
+:point_right: Para acessar a pasta com o código-fonte, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src).
 
 
