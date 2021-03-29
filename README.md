@@ -10,6 +10,7 @@
 > 
 > Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal 
 
+
 ## - Objetivo do projeto - 
 
 Desenvolver um sistema para Internet que sirva como uma página pessoal.
@@ -30,7 +31,21 @@ Devem ser encontradas as seguintes informações:
 
 - Outras informações relevantes ou de interesse do autor/proprietário. 
 
-## - Requisitos -
+
+## - Índice -
+<a name="ancora"></a>
+ 
+ [Requisitos](#ancora1)
+ 
+ [Ferramentas utilizadas](#ancora2)
+ 
+ [Entregas](#ancora3)
+ 
+
+<br />
+
+<a id="ancora1"></a>
+## - Requisitos - :computer_mouse:   
 
 - Ser reponsivo para dispositivos móveis
 - Seguir boas práticas de arquitetura de informação na construção das interfaces
@@ -42,7 +57,17 @@ Devem ser encontradas as seguintes informações:
 - Deverá ser desenvolvido utilizando-se CSS 3, com no mínimo 5 regras criadas sem a utilização de frameworks
 - O sistema deverá fazer uso de pelo menos um framework de CSS 3 para estilizar a aplicação. 
 
-## - Entregas -
+<a id="ancora2"></a>
+## - Ferramentas utilizadas - :hammer:
+
+* Front-end: HTML5, CSS3
+
+* Design: FIGMA
+
+<br />
+
+<a id="ancora3"></a>
+## - Entregas - :white_check_mark:
 
 - [ ] Entrega Pacial 1 - 31/03/2021 - Para visualizar a entrega, [clique aqui]().
 
