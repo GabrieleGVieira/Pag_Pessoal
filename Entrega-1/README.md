@@ -26,7 +26,7 @@
 
 ## - ENTREGAS - :computer_mouse: 
 
-[x] Protótipo navegável
+- [x] Protótipo navegável
 
 ![gif-wireframe]()
 
@@ -37,7 +37,7 @@
 
 :point_right: Para baixar o protótipo navegável em formato FIGMA, basta acessar [aqui]().
 
-[x] Wireframe 
+- [x] Wireframe 
 
 :point_right: Para acessar as telas em arquivo PDF, basta acessar [aqui](). | _(Caso demore e/ou não carregue o documento, atualize a página)_
 
