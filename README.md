@@ -41,3 +41,8 @@ Devem ser encontradas as seguintes informações:
 - Deverá ser desenvolvido utilizando-se HTML 5
 - Deverá ser desenvolvido utilizando-se CSS 3, com no mínimo 5 regras criadas sem a utilização de frameworks
 - O sistema deverá fazer uso de pelo menos um framework de CSS 3 para estilizar a aplicação. 
+
+## - Entregas -
+
+- [ ] Entrega Pacial 1 - 31/03/2021 - Para visualizar a entrega, [clique aqui]().
+
