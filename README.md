@@ -1,6 +1,9 @@
 [![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)
 
 <h2 text align="center"> Página Pessoal</h2>
+
+<h1 text align="center">Gabriele Gonçalves Vieira 👩‍💻</h1> 
+<h2 text align="center">Analista/Desenvolvedora</h2>
  
 > Curso: Desenvolvimento de Software Multiplataforma
 > 
