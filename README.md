@@ -11,16 +11,17 @@
 > Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal 
 
 ## - Objetivo do projeto -  
+
 Desenvolver um sistema para Internet que sirva como uma página pessoal onde possam ser encontradas as seguintes informações:
 
-- i.Dados do proprietário do sistema (autor da página/aplicação web); 
+- i. Dados do proprietário do sistema (autor da página/aplicação web); 
 
-> a.Uma foto que contenha efeitos de redimensionamento e filtro; 
+> a. Uma foto que contenha efeitos de redimensionamento e filtro; 
 
-> b.Informações educacionais;
+> b. Informações educacionais;
 
->  c.Outras informações pertinentes (interesses, etc.). 
+>  c. Outras informações pertinentes (interesses, etc.). 
 
-- ii.Portfólio (trabalhos desenvolvidos ou que pretende desenvolver); 
+- ii. Portfólio (trabalhos desenvolvidos ou que pretende desenvolver); 
 
-- iii.Outras informações relevantes ou de interesse do autor/proprietário. 
+- iii. Outras informações relevantes ou de interesse do autor/proprietário. 
