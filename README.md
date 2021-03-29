@@ -22,15 +22,15 @@ Desenvolver um sistema para Internet que sirva como uma página pessoal.
 
 Devem ser encontradas as seguintes informações:
 
-- Dados do proprietário do sistema (autor da página/aplicação web); 
+- Dados do proprietário do sistema (Autor da página/aplicação web); 
 
 > a. Uma foto que contenha efeitos de redimensionamento e filtro; 
 
 > b. Informações educacionais;
 
->  c. Outras informações pertinentes (interesses, etc.). 
+>  c. Outras informações pertinentes (Interesses, etc.). 
 
-- Portfólio (trabalhos desenvolvidos ou que pretende desenvolver); 
+- Portfólio (Trabalhos desenvolvidos ou que pretende desenvolver); 
 
 - Outras informações relevantes ou de interesse do autor/proprietário. 
 
