@@ -40,7 +40,7 @@
 
 - [x] Wireframe 
 
-:point_right: Para acessar as telas em arquivo PDF, basta acessar [aqui](). | _(Caso demore e/ou não carregue o documento, atualize a página)_
+:point_right: Para acessar as telas em arquivo PDF, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/mgt/Wireframe.pdf). | _(Caso demore e/ou não carregue o documento, atualize a página)_
 
 - [x] Código-fonte disponibilizado
 
