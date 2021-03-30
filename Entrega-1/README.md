@@ -34,7 +34,7 @@
 
 :point_right: Para assistir o video completo com a demonstração do protótipo navegável, acesse [aqui]().
 
-:point_right: Para acessar o protótipo navegável em formato FIGMA, basta acessar [aqui](https://www.figma.com/proto/lppm2565QtBVYONU08LkGr/Portif%C3%B3lio-Wireframe?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1).
+:point_right: Para acessar o protótipo navegável em formato FIGMA, basta acessar [aqui](https://www.figma.com/proto/lppm2565QtBVYONU08LkGr/P%C3%A1gina-Pessoal?node-id=1%3A2&viewport=269%2C143%2C0.04613543301820755&frame-preset-name=Desktop&scaling=min-zoom&page-id=0%3A1).
 
 :point_right: Para baixar o protótipo navegável em formato FIGMA, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/mgt/Prot%C3%B3tipo%20-%20P%C3%A1gina%20Pessoal).
 
