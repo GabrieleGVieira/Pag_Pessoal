@@ -72,5 +72,5 @@ Devem ser encontradas as seguintes informações:
 <a id="ancora3"></a>
 ## - Entregas - :white_check_mark:
 
-- [ ] Entrega Pacial 1 - 31/03/2021 - Para visualizar a entrega, [clique aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/Entrega-1/README.md).
+- [x] Entrega Pacial 1 - 31/03/2021 - Para visualizar a entrega, [clique aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/Entrega-1/README.md).
 
