@@ -1,4 +1,4 @@
-[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-EM%20DESENVOLVIMENTO-yellow)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/STATUS%20DO%20PROJETO-CONCLU%C3%8DDO-green)](https://shields.io/)
 
 <h2 text align="center"> Página Pessoal</h2>
 
@@ -134,7 +134,7 @@ Devem ser encontradas as seguintes informações:
 
 <a id="#ancoraSprint2"></a>
 ## - Entrega 2 - Final - :white_check_mark:
- [![Generic badge](https://img.shields.io/badge/ENTREGA%201-CONCLU%C3%8DDA-green)](https://shields.io/)
+ [![Generic badge](https://img.shields.io/badge/ENTREGA%202-CONCLU%C3%8DDA-green)](https://shields.io/)
 
 
 ## - PRAZO DE ENTREGA- :date:
@@ -164,9 +164,14 @@ Devem ser encontradas as seguintes informações:
 ![gif-site]()
 
 
+
+
 :point_right: Para assistir o video completo com a demonstração do site, acesse [aqui]().
 
-:point_right: Para acessar o site hospedado, basta acessar [aqui](https://www.figma.com/proto/lppm2565QtBVYONU08LkGr/P%C3%A1gina-Pessoal?node-id=1%3A2&viewport=269%2C143%2C0.04613543301820755&frame-preset-name=Desktop&scaling=min-zoom&page-id=0%3A1).
+:point_right: Para acessar a pasta com arquivos CSS, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src/pessoalsite/static/css).
+
+:point_right: Para acessar a pasta com arquivos HTML, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src/pessoalsite/templates/pessoalsite).
+
 
 - [x] Versão para dispositivos móveis
 
@@ -174,7 +179,7 @@ Devem ser encontradas as seguintes informações:
 
 - [x] Código-fonte disponibilizado
 
-:point_right: Para acessar a pasta com o código-fonte, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src).
+:point_right: Para acessar a pasta com o código-fonte completo, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src).
 
 
 
