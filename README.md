@@ -146,7 +146,7 @@ Devem ser encontradas as seguintes informações:
 - Conteúdo final atendendo todos os requisitos
 - Código-fonte disponibilizado
 - Versão para dispositivos móveis
-
+- Documentar mudanças
 ## - Requisitos - :computer_mouse:  
 
 - Atenda aos requisitos de dados e informações de acordo com o documento de requisitos fornecido pelo professor
@@ -161,12 +161,10 @@ Devem ser encontradas as seguintes informações:
 
 - [x] Conteúdo final atendendo todos os requisitos
 
-![gif-site]()
+![gif-site](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/gif-completo-final.gif)
 
 
-
-
-:point_right: Para assistir o video completo com a demonstração do site, acesse [aqui]().
+:point_right: Para assistir o video completo com a demonstração do site, acesse [aqui](https://youtu.be/qGxjGfDkpP8).
 
 :point_right: Para acessar a pasta com arquivos CSS, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src/pessoalsite/static/css).
 
@@ -175,11 +173,39 @@ Devem ser encontradas as seguintes informações:
 
 - [x] Versão para dispositivos móveis
 
-![gif-celular]()
-
 - [x] Código-fonte disponibilizado
 
 :point_right: Para acessar a pasta com o código-fonte completo, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src).
+
+
+- [x] Mudanças
+
+* Mudança versão Desktop:
+
+> Foi retirado do cabelhaço a escrita "Redes Sociais", não se fazendo mais necessária, e somente a escrita "Contato" redireciona para section.
+
+Antes:
+![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-1.png)
+
+
+> Foi retirado do cabelhaço a escrita "Redes Sociais", não se fazendo mais necessária, e somente a escrita "Contato" redireciona para section.
+
+Antes:
+![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-1.png)
+
+
+> Foi retirado do cabelhaço a escrita "Redes Sociais", não se fazendo mais necessária, e somente a escrita "Contato" redireciona para section.
+
+Antes:
+![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-1.png)
+
+
+> Foi retirado do cabelhaço a escrita "Redes Sociais", não se fazendo mais necessária, e somente a escrita "Contato" redireciona para section.
+
+Antes:
+![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-1.png)
+
+
 
 
 
