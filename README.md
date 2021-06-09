@@ -65,6 +65,12 @@ Devem ser encontradas as seguintes informações:
 
 * Front-end: HTML5, CSS3
 
+* Back-end: Python
+
+* Banco de Dados: SQLite
+
+* Frameworks: Django, Boostranp
+
 * Design: FIGMA
 
 <br />
@@ -73,6 +79,7 @@ Devem ser encontradas as seguintes informações:
 ## - Entregas - :white_check_mark:
 
 - [x] Entrega Pacial 1 - 31/03/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint1).
+- [x] Entrega Final 2 - 08/07/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint2).
 
 <br />
 
@@ -124,6 +131,53 @@ Devem ser encontradas as seguintes informações:
 - [x] Código-fonte disponibilizado
 
 :point_right: Para acessar a pasta com o código-fonte, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src).
+
+<a id="#ancoraSprint2"></a>
+## - Entrega 2 - Final - :white_check_mark:
+ [![Generic badge](https://img.shields.io/badge/ENTREGA%201-CONCLU%C3%8DDA-green)](https://shields.io/)
+
+
+## - PRAZO DE ENTREGA- :date:
+
+- [X] Entrega Final - 08/07/2021 
+
+## - CONTEÚDO DA ENTREGA - :white_check_mark:
+
+- Conteúdo final atendendo todos os requisitos
+- Código-fonte disponibilizado
+- Versão para dispositivos móveis
+
+## - Requisitos - :computer_mouse:  
+
+- Atenda aos requisitos de dados e informações de acordo com o documento de requisitos fornecido pelo professor
+- Imagem responsiva
+- Aplicação das boas práticas
+- Versão para dispositivos móveis e mobile deve ser compatível com os wireframes da entrega 1
+- Tenha o código-fonte todo disponibilizado dentro de uma pasta denominada de src/ em um repositório do GitHub
+- Um arquivo de README.MD no seu repositório que contenha sua identificação e um descritivo dos arquivos e pastas principais do seu repositório.
+- Um vídeo do YouTube, onde você abre o seu protótipo navegável e navega pelas Interfaces do seu sistema.
+
+## - ENTREGAS - :computer_mouse: 
+
+- [x] Conteúdo final atendendo todos os requisitos
+
+![gif-site]()
+
+
+:point_right: Para assistir o video completo com a demonstração do site, acesse [aqui]().
+
+:point_right: Para acessar o site hospedado, basta acessar [aqui](https://www.figma.com/proto/lppm2565QtBVYONU08LkGr/P%C3%A1gina-Pessoal?node-id=1%3A2&viewport=269%2C143%2C0.04613543301820755&frame-preset-name=Desktop&scaling=min-zoom&page-id=0%3A1).
+
+- [x] Versão para dispositivos móveis
+
+![gif-celular]()
+
+- [x] Código-fonte disponibilizado
+
+:point_right: Para acessar a pasta com o código-fonte, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src).
+
+
+
 
 
 
