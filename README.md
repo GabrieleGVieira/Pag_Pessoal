@@ -78,13 +78,13 @@ Devem ser encontradas as seguintes informações:
 <a id="ancora3"></a>
 ## - Entregas - :white_check_mark:
 
-- [x] Entrega Pacial 1 - 31/03/2021 - Para visualizar a entrega, [clique aqui](/#ancoraSprint1).
-- [x] Entrega Final 2 - 08/07/2021 - Para visualizar a entrega, [clique aqui](/#ancoraSprint2).
+- [x] Entrega Pacial 1 - 31/03/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint1).
+- [x] Entrega Final 2 - 08/07/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint2).
 
 <br />
 
 
-<a id="#ancoraSprint1"></a>
+<a id="ancoraSprint1"></a>
 ## - Entrega Parcial 1 - :white_check_mark:
  [![Generic badge](https://img.shields.io/badge/ENTREGA%201-CONCLU%C3%8DDA-green)](https://shields.io/)
 
@@ -132,7 +132,7 @@ Devem ser encontradas as seguintes informações:
 
 :point_right: Para acessar a pasta com o código-fonte, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src).
 
-<a id="#ancoraSprint2"></a>
+<a id="ancoraSprint2"></a>
 ## - Entrega 2 - Final - :white_check_mark:
  [![Generic badge](https://img.shields.io/badge/ENTREGA%202-CONCLU%C3%8DDA-green)](https://shields.io/)
 
