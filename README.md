@@ -187,23 +187,18 @@ Devem ser encontradas as seguintes informações:
 Antes:
 ![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-1.png)
 
+* Mudança versão Mobile:
 
-> Foi retirado do cabelhaço a escrita "Redes Sociais", não se fazendo mais necessária, e somente a escrita "Contato" redireciona para section.
-
-Antes:
-![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-1.png)
-
-
-> Foi retirado do cabelhaço a escrita "Redes Sociais", não se fazendo mais necessária, e somente a escrita "Contato" redireciona para section.
+> O menu de navegação não será mais lateralmente através de botão.
 
 Antes:
-![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-1.png)
+![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-celular-1.png)
 
 
-> Foi retirado do cabelhaço a escrita "Redes Sociais", não se fazendo mais necessária, e somente a escrita "Contato" redireciona para section.
+> O mesmo nas páginas de conteúdo.
 
 Antes:
-![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-1.png)
+![mudanca-desktop](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/mudanca-celular-3.png)
 
 
 
