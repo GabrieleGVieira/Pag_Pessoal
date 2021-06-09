@@ -1,0 +1,141 @@
+{% extends "pessoalsite/base_quadros.html" %}
+
+
+{% load static %}
+
+
+{% block nav %}
+
+{% for cat in quadros %}
+
+<a  href="{{ cat.get_absolute_url }}" style='color: #18A0FB;' target="_self" class ="nav-item nav-link"> 
+    {{ cat.title}}
+</a>
+
+{% endfor %}
+
+{% endblock %}
+
+{% block nav-hidden %}
+
+{% for cat in quadros %}
+
+<a  href="{{ cat.get_absolute_url }}" style='color: #18A0FB;' target="_self" class ="nav-item nav-link"> 
+    {{ cat.title}}
+</a>
+
+{% endfor %}
+
+
+
+
+
+{% endblock %}
+
+
+
+
+
+{% block title %}
+
+    {{quadro.title}}
+
+{% endblock %}
+
+
+
+{% block id_1 %}
+
+        {{quadro.id_quadro01}}    
+
+{% endblock %}
+
+
+{% block id_2 %}
+
+        {{quadro.id_quadro03}}    
+
+{% endblock %}
+
+
+
+
+
+
+
+
+
+{% block quadro2 %}
+
+
+<div  id='quadro2'>
+    <a href = "/conteudo/{{quadro.name_quadro02}}" target="_self"><img src="/media/{{quadro.image_quadro02}}" id='img-apresentacao' class='hover'> </a>
+    <div class="card-body">
+
+<p>
+    <b> 
+
+        {{quadro.title_quadro02}}
+
+    </b>
+
+</p>
+
+</div>
+
+
+
+{% endblock %}
+
+
+
+
+
+
+
+{% block quadro3 %}
+
+
+<div  id='quadro3' class='hover'>
+    <div class="card-body">
+            <p>
+                <b>
+                    {{quadro.title_quadro03}}
+               </b>
+               <br>
+               {{quadro.description_quadro03}}
+                   
+                   <br>
+                   <br>
+                   <a href = "/conteudo/{{quadro.name_quadro03}}" target="_self"><button class="botao" > Saiba Mais </button></a>
+        </p>
+
+    </div>
+</div>
+
+{% endblock %}
+
+    
+
+
+        
+{%block quadro1 %}
+
+<div id='apresentacao' class='card'>
+    <img class="card-img-top"  src="/media/{{quadro.image_quadro01}}" id='img-principal'>
+    <div class="card-body">
+        <p class ='hover'>
+         <b>
+            {{quadro.title_quadro01}}
+        </b>
+        <br>
+        
+            {{quadro.description_quadro01}}
+        </p>
+        <a href = "/conteudo/{{quadro.name_quadro01}}" target="_self"><button class="botao"> Saiba Mais </button></a>
+    </div>
+</div>
+
+
+
+{% endblock %}

@@ -1,0 +1,116 @@
+{% extends 'pessoalsite/base_conteudo.html' %}
+
+
+{% load static %}
+
+{% block title %}
+
+{{assunto.aba}}
+
+{% endblock %}
+
+
+{% block nav %}
+
+
+{% if assunto.aba == 'Apresentação' %}
+
+<a href = "/apresentacao/" target="_self" style='color: #18A0FB;' target="_self" class ="nav-item nav-link"> Voltar </a>
+
+{% elif assunto.aba == 'Acadêmica' %}
+
+<a href = "/academica/" target="_self" style='color: #18A0FB;' target="_self" class ="nav-item nav-link"> Voltar </a>
+
+{% elif assunto.aba == 'Profissional' %}
+
+<a href = "/profissional/" target="_self" style='color: #18A0FB;' target="_self" class ="nav-item nav-link"> Voltar </a>
+
+{% elif assunto.aba == 'Pessoal' %}
+
+<a href = "/pessoal/" target="_self" style='color: #18A0FB;' target="_self" class ="nav-item nav-link"> Voltar </a>
+
+{% elif assunto.aba == 'Projetos' %}
+
+<a href = "/projetos/" target="_self" style='color: #18A0FB;' target="_self" class ="nav-item nav-link"> Voltar </a>
+
+{% endif %}
+
+
+{% for cat in assuntos %}
+
+
+{% if cat.aba == assunto.aba %}
+
+<a href="{{ cat.get_absolute_url }}" target="_self" style='color: #18A0FB;' target="_self" class ="nav-item nav-link"> 
+    {{ cat.name }}
+</a>
+
+{% endif %}
+{% endfor %}
+
+
+{% endblock %}
+
+
+
+{% block content %}
+
+{% spaceless %}
+{% for conteudo in conteudo_list %}
+
+<div class='{{ conteudo.cor }}'>
+    <div class="container">
+
+     <div class="row align-items-center">
+        <div class="col-8">
+            <p>
+                <b>{{conteudo.title}}</b>
+                <br>
+                <br>
+                {{conteudo.description|linebreaksbr}}
+                <br>
+                <br>
+            </p>
+        </div>
+
+        <div class="col">
+            {% if conteudo.image %}
+            <img class="img-fluid img-thumbnail img-responsive" src="/media/{{conteudo.image}}" alt=""  width=350px>
+            {% if conteudo.identificacao %}
+            <img class="img-fluid img-thumbnail img-responsive" id="{{conteudo.identificacao}}" alt=""  width=350px> 
+            {% endif %}
+            {% endif %}
+
+        </div>
+    </div>
+
+    <p>
+        {% if conteudo.link %}
+        
+        Para acessar mais informações,<a href="{{conteudo.link}}"> clique aqui</a>!
+        
+        {% endif %}
+         <br>
+         <br>
+        {% if conteudo.video %}
+        
+        Para ver a demonstração,<a href="{{conteudo.video}}"> clique aqui</a>!
+        
+        {% endif %}
+        </p>
+
+    </div>
+
+
+
+</div>
+
+{% endfor %}      
+
+{% endspaceless %}
+   
+{% endblock content %}
+
+
+
+
