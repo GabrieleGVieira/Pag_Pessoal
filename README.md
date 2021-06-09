@@ -78,8 +78,8 @@ Devem ser encontradas as seguintes informações:
 <a id="ancora3"></a>
 ## - Entregas - :white_check_mark:
 
-- [x] Entrega Pacial 1 - 31/03/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint1).
-- [x] Entrega Final 2 - 08/07/2021 - Para visualizar a entrega, [clique aqui](#ancoraSprint2).
+- [x] Entrega Pacial 1 - 31/03/2021 - Para visualizar a entrega, [clique aqui](/#ancoraSprint1).
+- [x] Entrega Final 2 - 08/07/2021 - Para visualizar a entrega, [clique aqui](/#ancoraSprint2).
 
 <br />
 
