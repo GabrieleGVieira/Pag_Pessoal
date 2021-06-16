@@ -164,6 +164,11 @@ Devem ser encontradas as seguintes informações:
 ![gif-site](https://github.com/GabrieleGVieira/Pag_Pessoal/blob/main/imagens-read/gif-completo-final.gif)
 
 
+
+:point_right: O campo de entrada para acessar o site em localhost é http://127.0.0.1:8000/apresentacao/ 
+
+
+
 :point_right: Para assistir o video completo com a demonstração do site, acesse [aqui](https://youtu.be/qGxjGfDkpP8).
 
 :point_right: Para acessar a pasta com arquivos CSS, basta acessar [aqui](https://github.com/GabrieleGVieira/Pag_Pessoal/tree/main/src/pessoalsite/static/css).
